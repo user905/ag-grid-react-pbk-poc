@@ -9,11 +9,3 @@ export const generalColDef = [
     children: [{ field: 'Row Header' }, { field: 'Value' }],
   },
 ];
-
-export const headerCols = [
-  { field: 'PARSID' },
-  { field: 'OA SD' },
-  { field: 'CPP SD' },
-];
-
-export const altHeaderCols = [{ field: 'PARSID' }, { field: 'SD' }];
