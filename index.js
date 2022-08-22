@@ -25,7 +25,7 @@ const App = () => {
     <div>
       <div
         className="ag-theme-alpine"
-        style={{ height: 90, width: 'auto', marginBottom: '50px' }}
+        style={{ height: 130, width: 'auto', marginBottom: '50px' }}
       >
         <h2>PB-K Table</h2>
         <AgGridReact
