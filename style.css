@@ -3,6 +3,13 @@ p {
   font-family: Lato;
 }
 
-/* .ag-theme-alpine .ag-header {
-  --ag-header-foreground-color: rgb(255, 255, 255);
-} */
+h2,
+h3 {
+  background-color: cyan;
+}
+
+.ag-theme-alpine .ag-header {
+  --ag-header-foreground-color: rgb(12, 10, 10, 0);
+  --ag-font-size: 2px;
+  --ag-header-height: 5px;
+}
